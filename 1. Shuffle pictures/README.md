@@ -1,1 +1,1 @@
-Simple exemple of shuffling pictures on onclick event.
+Simple exemple of shuffling pictures with onclick event.

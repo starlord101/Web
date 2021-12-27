@@ -1,4 +1,4 @@
-//Игра "пятнашки". При загрузке документа отображаем 16 игровых кнопок.
+//Игра "пятнашки".
 const values = getRandomArray();
 let indexElement = values.indexOf(16);
 values[indexElement] = " ";

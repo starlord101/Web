@@ -1,0 +1,1 @@
+Simple exemple of shuffling pictures on onclick event.

@@ -1,0 +1,27 @@
+body{
+    width: 100%;
+}
+div {
+    width: 640px;
+    display: block;
+    background-color: #cecece;
+    margin: 10px auto;
+
+}
+input[type = button]{
+    width: 150px;
+    height: 150px;
+    background-size: cover;
+    float: left;
+    font-size: 30px;
+}
+form{
+    position:relative;
+}
+form::after{
+    content: "\21D0 Start";
+    position: absolute;
+    bottom: 30px;
+    right: -60px;
+    font-size: 30px;
+}

@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 95%;
+}
+#letters {
+    max-width: 800px;
+    display: block;
+    margin: 10px auto;
+    float: left;
+    
+}
+#words  {
+    width: 300px;
+    display: block;
+    background-color: #cecece;
+    margin: 25px auto;
+    float: right;
+    font-size: 30px;
+
+}
+input[type = button]{
+    width: 150px;
+    height: 150px;
+    background-size: cover;
+    float: left;
+    font-size: 30px;
+}
+#field{
+    border: none;
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+header p{
+    font-weight: bold;
+}

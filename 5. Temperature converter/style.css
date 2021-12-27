@@ -1,0 +1,20 @@
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+select{
+    font-size: 16px;
+}
+input[type='button']{
+    margin-bottom: 0;
+    margin-left: 15px;
+}
+
+fieldset{
+    padding: 20px;
+}

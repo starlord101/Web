@@ -1,0 +1,18 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+.random-pictures {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 610px;
+}
+.random-pictures img{
+    height: 250px;
+    width: 300px;
+    border: 1px solid;
+}
